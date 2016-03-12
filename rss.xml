@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DFC - Votre partenaire Champagne]]></title>
+        <description><![CDATA[DFC - Votre partenaire Champagne]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Mar 2016 02:31:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[QUI SOMMES NOUS?]]></title>
+            <description><![CDATA[<article><h1>QUI SOMMES NOUS?</h1><h2>NOTRE HISTOIRE</h2><p>La société DUMONT France CAVE centenaire aujourd’hui à débutée comme forgeron et s’est appliquée à évoluer en termes de pôles d’activités et technologies.</p></article>]]></description>
+            <link>undefinedqui-sommes-nous/index.html</link>
+            <guid isPermaLink="false">5cb6fb8a-a02a-4cfe-b971-75f2555da842</guid>
+            <pubDate>Sat, 12 Mar 2016 02:31:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
